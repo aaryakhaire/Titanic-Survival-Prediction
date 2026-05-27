@@ -89,14 +89,35 @@ Applied GridSearchCV to optimize XGBoost parameters.
 ## Project Structure
 
 ```plaintext
+```plaintext
 Titanic-Survival-Prediction/
 │
 ├── data/
+│   ├── train.csv
+│   └── test.csv
+│
 ├── notebooks/
+│   └── titanic_prediction.ipynb
+│
 ├── models/
+│
 ├── images/
+│   └── feature_importance.png
+│
 ├── README.md
 ├── requirements.txt
+└── .gitignore
+```
+
+Future Improvements
+Ensemble Learning
+LightGBM/CatBoost implementation
+SHAP explainability
+Advanced feature engineering
+Deployment using Streamlit or Flask
+
+Author
+Aarya Khaire
 
 
 
