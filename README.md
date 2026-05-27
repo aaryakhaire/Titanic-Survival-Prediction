@@ -98,14 +98,5 @@ Titanic-Survival-Prediction/
 ├── README.md
 ├── requirements.txt
 
-Future Improvements
-Ensemble Learning
-LightGBM/CatBoost implementation
-SHAP explainability
-Advanced feature engineering
-Deployment using Streamlit or Flask
-
-Author
-Aarya Khaire
 
 
