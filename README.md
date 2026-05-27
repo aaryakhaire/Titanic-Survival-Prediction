@@ -109,15 +109,18 @@ Titanic-Survival-Prediction/
 └── .gitignore
 ```
 
-Future Improvements
-Ensemble Learning
-LightGBM/CatBoost implementation
-SHAP explainability
-Advanced feature engineering
-Deployment using Streamlit or Flask
+## Future Improvements
 
-Author
+- Ensemble Learning
+- LightGBM/CatBoost implementation
+- SHAP explainability
+- Advanced feature engineering
+- Deployment using Streamlit or Flask
+
+---
+
+## Author
+
 Aarya Khaire
-
 
 
