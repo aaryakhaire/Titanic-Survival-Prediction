@@ -110,7 +110,7 @@ Titanic-Survival-Prediction/
 ```
 
 Future Improvements
-\nEnsemble Learning
+Ensemble Learning
 LightGBM/CatBoost implementation
 SHAP explainability
 Advanced feature engineering
